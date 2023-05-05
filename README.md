@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **mugdha220598@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
@@ -21,5 +20,7 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mugdha-patel&show_icons=true&locale=en" alt="mugdha-patel" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mugdha-patel&show_icons=true&locale=en&layout=compact" alt="mugdha-patel" /></p>
+
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mugdha-patel&" alt="mugdha-patel" /></p>
