@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **tailwind, angular**
 
-- 👨‍💻 All of my projects are available at [https://mugdha-patel.github.io/portfolio/](https://mugdha-patel.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [https://mugdha-patel.netlify.app/)
 
 - 📫 How to reach me **mugdha220598@gmail.com**
 
